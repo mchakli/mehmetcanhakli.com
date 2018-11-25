@@ -4,7 +4,6 @@ author = "Mehmet Can Haklı"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
-googleAnalytics = "UA-129783882-1"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
