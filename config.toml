@@ -1,0 +1,23 @@
+baseurl = "https://www.mehmetcanhakli.com/"
+title = "Mehmet Can Haklı"
+author = "Mehmet Can Haklı"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Mehmet Can Haklı"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "https://www.mehmetcanhakli.com/about/"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://www.mehmetcanhakli.com/projects/"
+[[menu.main]]
+    name = "Resume"
+    url  = "https://www.mehmetcanhakli.com/resume/"
