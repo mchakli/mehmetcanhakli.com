@@ -4,12 +4,12 @@
   <ul class=posts_listing>
     {{ range .Pages }}
       {{ if eq .Type "posts"}}
-      <!--<li>
+      <li>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <div id=date>
           <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
         </div>
-      </li>--!>
+      </li>
       {{ end }}
     {{ end }}
 
