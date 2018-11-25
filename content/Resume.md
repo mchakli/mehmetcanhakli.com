@@ -35,7 +35,7 @@ Yol Digital, Istanbul Jul 2013 – Jun 2014 Part-Time Product Manager
 **Pixelplus Interactive, Istanbul, Project Manager Intern // Nov 2012 – Feb 2013**
 
 
-##Extracurricular Activities
+## Extracurricular Activities
 
 **TOTAL Summer School // 22-27 June 2014**
 
