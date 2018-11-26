@@ -6,6 +6,8 @@
 
 I am Mehmet Can. I love Digital TV.
 
+<img src="//mehmetcanhakli.com/static/img/mehmetcan.jpg" class="right-justify" style="margin-left: 1em" /></p>
+
 I work @ Admongrel as Head of Sales & Partnerships. My professional interest is Digital TV. I help broadcasters and Pay-TV Operators to engage with their viewers and keep them happy.
 
 I specialize in Interactive TV, Addressable TV and HbbTV. I also like Set-Top-Box's and have some knowledge in DVB-S/C/T and IPTV STB domain.
