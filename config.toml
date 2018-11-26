@@ -21,3 +21,6 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Resume"
     url  = "https://www.mehmetcanhakli.com/resume/"
+[[menu.main]]
+    name = "Random Facts"
+    url  = "https://www.mehmetcanhakli.com/randomfacts/"
