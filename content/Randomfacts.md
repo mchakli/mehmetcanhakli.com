@@ -24,8 +24,10 @@ We've probably just met. Here are some random facts & thoughts for you. If we ha
 
 9. Bearded dragons are amazing.
 
-10. I tried to make croissants once. I failed miserably. Kudos to the croissant bakers.
+10. My longest binge-watching lasted 9 hours. 
 
-11. When I browse the Internet, I also check the smaller Internet on my phone.
+11. I tried to make croissants once. I failed miserably. Kudos to the croissant bakers.
 
-12. Plants are actually difficult to take care of.
+12. When I browse the Internet, I also check the smaller Internet on my phone.
+
+13. Plants are actually difficult to take care of.
