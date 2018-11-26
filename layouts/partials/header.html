@@ -32,9 +32,8 @@
   <body>
     <section id=nav>
       <h1><a href="/">{{ .Site.Params.sitename }}</a></h1>
-      
-      <b> I help media companies to keep their viewers happy. </b>
-
+        <b> I help media companies to keep their viewers happy. </b>
+      <ul>
               {{ range .Site.Menus.main }}
                 <li><a href="{{ .URL }}">{{ .Name }}</a></li>
               {{ end }}
