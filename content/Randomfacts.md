@@ -4,7 +4,7 @@
 
 # Random Facts
 
-We've probably just met. Here are some random facts & thoughts for you. If we had a coffee, I'd be telling you one in every two minutes,
+We've probably just met. To make the first move, here are some random facts & thoughts for you. If we had a coffee, I'd be telling you one in every two minutes,
 
 1. Print books' user experience is horrible. Embrace Kindle.
 
@@ -26,7 +26,7 @@ We've probably just met. Here are some random facts & thoughts for you. If we ha
 
 10. I hate Norman doors.
 
-11. On the projects that I work on, people know when to pull, where to push.
+11. On the projects that I work on, users know when to pull, where to push.
 
 11. My longest binge-watching lasted 9 hours.
 
