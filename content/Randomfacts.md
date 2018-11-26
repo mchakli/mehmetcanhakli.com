@@ -24,10 +24,14 @@ We've probably just met. Here are some random facts & thoughts for you. If we ha
 
 9. Bearded dragons are amazing.
 
-10. My longest binge-watching lasted 9 hours. 
+10. I hate Norman doors.
 
-11. I tried to make croissants once. I failed miserably. Kudos to the croissant bakers.
+11. On the projects that I work on, people know when to pull, where to push.
 
-12. When I browse the Internet, I also check the smaller Internet on my phone.
+11. My longest binge-watching lasted 9 hours.
 
-13. Plants are actually difficult to take care of.
+12. I tried to make croissants once. I failed miserably. Kudos to the croissant bakers.
+
+13. When I browse the Internet, I also check the smaller Internet on my phone.
+
+14. Plants are actually difficult to take care of.
