@@ -5,7 +5,7 @@
 # Resume
 
 ## Education
-Istanbul Technical University, Istanbul, Applied Informatics, M.Sc. 3,00 2017 – 2020* (Expected)
+Istanbul Technical University, Istanbul, Applied Informatics, M.Sc. 3,00 2017 – 2020
 
 Boğaziçi University, Istanbul, Management, B.A. 2,92 2010 – 2015
 
@@ -40,5 +40,5 @@ Yol Digital, Istanbul Jul 2013 – Jun 2014 Part-Time Product Manager
 
 **TOTAL Summer School // 22-27 June 2014**
 
-• Attended TOTAL Summer School in Paris with 120 students from all around the world to examine and discuss key energy issues.
+* Attended TOTAL Summer School in Paris with 120 students from all around the world to examine and discuss key energy issues.
 Advisor of Brand & Marketing Subcommittee at Management & Economics Club Aug 2011 – June 2012
