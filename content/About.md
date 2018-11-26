@@ -6,7 +6,7 @@
 
 I am Mehmet Can. I love Digital TV.
 
-<div class="photo" markdown="1"> <p><img src="//github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120/raw/master/catgenie.gif" class="right-justify" style="width: 280px; margin-left: 1em" /></p> </div>
+<div class="photo" markdown="1"> <p><img src="static/img/mehmetcan.jpg" class="right-justify" style="width: 280px; margin-left: 1em" /></p> </div>
 
 I work @ Admongrel as Head of Sales & Partnerships. My professional interest is Digital TV. I help broadcasters and Pay-TV Operators to engage with their viewers and keep them happy.
 
