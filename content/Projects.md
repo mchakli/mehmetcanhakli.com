@@ -7,7 +7,6 @@
 Istanbul Technical University
 
 * Smart Antenna Design
-
 * MVNO Market & Regulations in Turkey
 
 # Master's Thesis

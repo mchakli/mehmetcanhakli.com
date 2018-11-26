@@ -6,6 +6,7 @@
 
 ## Education
 Istanbul Technical University, Istanbul, Applied Informatics, M.Sc. 3,00 2017 – 2020* (Expected)
+
 Boğaziçi University, Istanbul, Management, B.A. 2,92 2010 – 2015
 
 
