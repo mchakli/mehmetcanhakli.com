@@ -4,6 +4,7 @@ author = "Mehmet Can Haklı"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
+canonifyURLs = true
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
@@ -11,6 +12,8 @@ pygmentscodefences  = true
 [params]
   sitename = "Mehmet Can Haklı"
   disableWebFonts = false
+[permalinks]
+  post = "/blog/:title/"
 
 [[menu.main]]
     name = "About"

@@ -14,7 +14,7 @@ We've probably just met. To make the first move, here are some random facts & th
 
 4. I sucked at Physics in High School. Now I am trying to understand how electromagnetic waves work.
 
-5. I enjoy reading about Behavioral Science. No, not just Dan Ariely
+5. I enjoy reading about Behavioral Science. No, not just Dan Ariely.
 
 6. Speaking of humans.. They might be a bit complex to understand. Gotta love'em though.
 
