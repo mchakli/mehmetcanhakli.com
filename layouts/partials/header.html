@@ -3,6 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="author" content="Mehmet Can Haklı"/>
+    <meta name="keywords" content="Mehmet Can Haklı, Mehmet Haklı, blog, Digital TV, 5G, thesis, HbbTV, Addressable TV, Interactive TV, Türkiye, Turkey"/>
+    <meta name="description" content="Digital TV, media and advertising."/>
+    <meta name="generator" content="Hugo 0.50" />
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,8 +39,8 @@
       <h1><a href="/">{{ .Site.Params.sitename }}</a></h1>
         <p> I help media companies to keep their viewers happy. </p>
       <ul>
-              {{ range .Site.Menus.main }}
-                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-              {{ end }}
+          {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
       </ul>
     </section>

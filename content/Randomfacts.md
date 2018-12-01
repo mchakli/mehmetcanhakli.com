@@ -1,8 +1,9 @@
 +++
-
+description = "Random Facts"
+slug = "randomfacts"
+tags = ["Mehmet Can Haklı", "Digital TV", "HbbTV", "5G", "Addressable TV", "Interactive TV", "ITU"]
+title = "Random Facts"
 +++
-
-# Random Facts
 
 We've probably just met. To make the first move, here are some random facts & thoughts for you. If we had a coffee, I'd be telling you one in every two minutes,
 

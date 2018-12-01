@@ -2,9 +2,14 @@ baseurl = "https://www.mehmetcanhakli.com/"
 title = "Mehmet Can Haklı"
 author = "Mehmet Can Haklı"
 canonifyurls = true
-languagecode = "en"
-theme = "black-and-light"
-canonifyURLs = true
+languagecode = "en-US"
+copyright = "GNU General Public License v3.0"
+enableRobotsTXT = true
+log = true
+logFile = "hugo.log"
+verboseLog = true
+metaDataFormat = "toml"
+verbose = true
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
@@ -13,17 +18,23 @@ pygmentscodefences  = true
   sitename = "Mehmet Can Haklı"
   disableWebFonts = false
 [permalinks]
-  post = "/blog/:title/"
+  post = "/:slug/"
+  page = "/:slug/"
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
 
-[[menu.main]]
-    name = "About"
-    url  = "https://www.mehmetcanhakli.com/about/"
-[[menu.main]]
-    name = "Projects"
-    url  = "https://www.mehmetcanhakli.com/projects/"
-[[menu.main]]
-    name = "Resume"
-    url  = "https://www.mehmetcanhakli.com/resume/"
-[[menu.main]]
-    name = "Random Facts"
-    url  = "https://www.mehmetcanhakli.com/randomfacts/"
+[menu]
+
+  [[menu.main]]
+      name = "About Me"
+      url  = "/about/"
+  [[menu.main]]
+      name = "Projects"
+      url  = "/projects/"
+  [[menu.main]]
+      name = "Resume"
+      url  = "/resume/"
+  [[menu.main]]
+      name = "Random Facts"
+      url  = "/randomfacts/"

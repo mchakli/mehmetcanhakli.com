@@ -1,8 +1,9 @@
 +++
-
+description = "Resume"
+slug = "resume"
+tags = ["Mehmet Can Haklı", "Digital TV", "Admongrel", "Technicolor", "Addressable TV", "Interactive TV", "ITU"]
+title = "Resume"
 +++
-
-# Resume
 
 ## Education
 Istanbul Technical University, Istanbul, Applied Informatics, M.Sc. 3,00 2017 – 2020

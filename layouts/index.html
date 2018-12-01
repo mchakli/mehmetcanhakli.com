@@ -3,7 +3,7 @@
   <section id=content>
   <ul class=posts_listing>
     {{ range .Pages }}
-      {{ if eq .Type "posts"}}
+      {{ if eq .Type "post"}}
       <li>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <div id=date>
@@ -17,3 +17,9 @@
 </section>
 
 {{ partial "footer.html" . }}
+
+<ul>
+{{ range (where .Site.Pages.ByTitle ".Type" "post") }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>

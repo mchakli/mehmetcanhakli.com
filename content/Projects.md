@@ -1,8 +1,9 @@
 +++
-
+description = "Projects"
+slug = "projects"
+tags = ["Mehmet Can Haklı", "Smart Antenna Design", "MVNO", "5G", "Turkey", "Regulations", "ITU"]
+title = "Projects & Articles"
 +++
-
-# Projects & Articles
 
 Istanbul Technical University
 

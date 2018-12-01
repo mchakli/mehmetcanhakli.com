@@ -1,8 +1,11 @@
 +++
 
-+++
+description = "About Page"
+slug = "about"
+tags = ["Mehmet Can Haklı", "Digital TV", "HbbTV", "5G", "Addressable TV", "Interactive TV", "ITU"]
+title = "About Me"
 
-# About Me
++++
 
 I am Mehmet Can. I love Digital TV.
 
