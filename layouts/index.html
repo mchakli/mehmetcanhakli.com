@@ -17,9 +17,3 @@
 </section>
 
 {{ partial "footer.html" . }}
-
-<ul>
-{{ range (where .Site.Pages.ByTitle ".Type" "post") }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-{{ end }}
-</ul>
