@@ -7,8 +7,8 @@ title = "Projects & Articles"
 
 Istanbul Technical University
 
-* Smart Antenna Design
-* MVNO Market & Regulations in Turkey
+* <a href="https://bit.ly/2rdHND0">Smart Antenna Design</a>
+* <a href="https://bit.ly/2RsxO8C">MVNO Market & Regulations in Turkey</a>
 
 ## Master's Thesis
 
